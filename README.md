@@ -11,12 +11,12 @@
 
 <p align="center">
   <a href="https://github.com/cstrlc/nuxtesse" alt="nuxtesse">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=cstrlc&repo=nuxtesse&theme=dracula&bg_color=0d1117&border_radius=0&show_icons=false" alt="" />
+    <img width="273" src="https://github-readme-stats.vercel.app/api/pin/?username=cstrlc&repo=nuxtesse&theme=dracula&bg_color=0d1117&border_radius=0&show_icons=false" alt="" />
   </a>
   <a href="https://github.com/cstrlc/figma-font-helper-deno" alt="figma-font-helper-deno">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=cstrlc&repo=figma-font-helper-deno&theme=dracula&bg_color=0d1117&border_radius=0&show_icons=false" alt="" />
+    <img width="273" src="https://github-readme-stats.vercel.app/api/pin/?username=cstrlc&repo=figma-font-helper-deno&theme=dracula&bg_color=0d1117&border_radius=0&show_icons=false" alt="" />
   </a>
   <a href="https://github.com/cstrlc/obsidian-auto-homepage" alt="obsidian-auto-homepage">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=cstrlc&repo=obsidian-auto-homepage&theme=dracula&bg_color=0d1117&border_radius=0&show_icons=false" alt="" />
+    <img width="273" src="https://github-readme-stats.vercel.app/api/pin/?username=cstrlc&repo=obsidian-auto-homepage&theme=dracula&bg_color=0d1117&border_radius=0&show_icons=false" alt="" />
   </a>
 </p>
