@@ -3,7 +3,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cstrlc&show_icons=true&theme=dracula&count_private=true&hide=stars,prs,issues,contribs&hide_border=true&border_radius=0&custom_title=Stats&bg_color=0d1117" alt="" />
   </a>
   <a href="#" alt="My Top Languages">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstrlc&layout=compact&theme=dracula&hide_border=true&border_radius=0&custom_title=Top%20languages&hide=CSS,HTML&bg_color=0d1117" alt="" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstrlc&layout=compact&theme=dracula&hide_border=true&border_radius=0&custom_title=Top%20languages&hide=CSS,HTML&bg_color=0d1117&card_width=200" alt="" />
   </a>
 </div>
 
