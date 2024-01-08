@@ -16,7 +16,4 @@
   <a href="https://github.com/cstrlcs/figma-font-helper-deno" alt="figma-font-helper-deno">
     <img width="273" src="https://github-readme-stats.vercel.app/api/pin/?username=cstrlcs&repo=figma-font-helper-deno&theme=dracula&bg_color=0d1117&border_radius=0&show_icons=false" alt="" />
   </a>
-  <a href="https://github.com/cstrlcs/obsidian-auto-homepage" alt="obsidian-auto-homepage">
-    <img width="273" src="https://github-readme-stats.vercel.app/api/pin/?username=cstrlcs&repo=obsidian-auto-homepage&theme=dracula&bg_color=0d1117&border_radius=0&show_icons=false" alt="" />
-  </a>
 </p>
