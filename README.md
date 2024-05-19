@@ -11,6 +11,6 @@
 <h2></h2><br>
 
 ```
-curl -sL https://lucascastro.dev/resume.sh | bash
+curl -sL https://lucascastro.dev/txt
 ```
 </div>
