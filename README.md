@@ -3,7 +3,6 @@
 <p align="center">
     <samp>
       [<a href="mailto:contact@lucascastro.dev">e-mail</a>]
-      [<a href="https://twitter.com/lucascastro_dev">twitter</a>]
       [<a href="https://linkedin.com/in/lucascastrodev">linkedin</a>]
     </samp>
 </p>
